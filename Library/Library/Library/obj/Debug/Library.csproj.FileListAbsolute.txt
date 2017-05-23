@@ -1,0 +1,16 @@
+c:\users\frincu\documents\visual studio 2017\Projects\Library\Library\bin\Debug\login.mdf
+c:\users\frincu\documents\visual studio 2017\Projects\Library\Library\bin\Debug\login_log.ldf
+c:\users\frincu\documents\visual studio 2017\Projects\Library\Library\bin\Debug\Library.exe.config
+c:\users\frincu\documents\visual studio 2017\Projects\Library\Library\bin\Debug\Library.exe
+c:\users\frincu\documents\visual studio 2017\Projects\Library\Library\bin\Debug\Library.pdb
+c:\users\frincu\documents\visual studio 2017\Projects\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+c:\users\frincu\documents\visual studio 2017\Projects\Library\Library\obj\Debug\Library.login.resources
+c:\users\frincu\documents\visual studio 2017\Projects\Library\Library\obj\Debug\Library.Properties.Resources.resources
+c:\users\frincu\documents\visual studio 2017\Projects\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+c:\users\frincu\documents\visual studio 2017\Projects\Library\Library\obj\Debug\Library.exe
+c:\users\frincu\documents\visual studio 2017\Projects\Library\Library\obj\Debug\Library.pdb
+c:\users\frincu\documents\visual studio 2017\Projects\Library\Library\obj\Debug\Library.user.resources
+c:\users\frincu\documents\visual studio 2017\Projects\Library\Library\obj\Debug\Library.add_books.resources
+c:\users\frincu\documents\visual studio 2017\Projects\Library\Library\obj\Debug\Library.books.resources
+c:\users\frincu\documents\visual studio 2017\Projects\Library\Library\obj\Debug\Library.students.resources
+c:\users\frincu\documents\visual studio 2017\Projects\Library\Library\obj\Debug\Library.student_info.resources
